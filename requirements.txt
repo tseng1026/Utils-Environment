@@ -1,0 +1,15 @@
+# pip3 install -r requirements.txt
+
+numpy
+pandas
+seaborn
+matplotlib
+opencv-python
+notebook
+torch
+torchvision
+tensorflow
+scikit-learn
+Pillow
+tqdm
+scipy
